@@ -1,0 +1,14 @@
+.name-icon-and-temperature {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.name-icon-and-temperature img {
+  scale: 0.5;
+}
+
+.icon-and-temperature {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}/*# sourceMappingURL=gallery.css.map */

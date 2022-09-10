@@ -1,0 +1,19 @@
+
+  ***initializing the array
+  1. a function that creates the initial array according to the local storage , updateds it (fun 2) and creates an untouched copy of the array+local storage (func 4). 
+  
+  2. a function that recieves an array of cities and returns an updated array of cities.
+  
+a function that recieves a city and returns the API
+
+
+  3. refresh page - 
+   a function that recieves an array (it might be a filtered array), refreshes the page and calls the 3 components (gallery, carousel, and list) 
+  
+  4. a function to save the array into the local storage.
+  
+  5. sort function - sorts and changes the array (with direction), updates it (function 2), saves it to the local storage (function 4), and refreshes the page (function 3)
+  6. filter function - changes the main array according to a filtered untouched array. updates it (function 2), and refreshes the page (function 3). if the inpu is empty, the filtered array will be the same as the original gam kacha.
+
+
+
